@@ -28,7 +28,7 @@
         <q-item-label
           header
         >
-          Essential Links
+          App Navigation
         </q-item-label>
 
         <EssentialLink
